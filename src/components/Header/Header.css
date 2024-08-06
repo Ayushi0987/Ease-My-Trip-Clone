@@ -1,0 +1,11 @@
+/* .navbar-logo{
+    flex-grow: 1;
+    cursor: pointer;
+} */
+.navbar-logo-img {
+    width: 158px;
+    height: 58px;
+}
+.flexgrow {
+    flex-grow: 1;
+}
