@@ -29,6 +29,7 @@ function App() {
         <Route path="/loginRegister" element={<LoginRegister />} />
         <Route path="/booking-confirmation" element={<BookingConfirmation />} />
         <Route path="/admin" element={<AdminDashboard />} />
+        <Route path="/login" element={<LoginRegister />} />
       </Routes>
       <Footer />
     </>

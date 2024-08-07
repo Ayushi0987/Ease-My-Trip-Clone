@@ -1,0 +1,60 @@
+/* #fullWidth {
+    width: 100%;
+    min-height: 230px;
+    position: relative;
+    background-color: #2f81ed;
+    background-image: linear-gradient(to right, #2F80ED, #56CCF2);
+} */
+.search-container {
+    width: 100%;
+    min-height: 230px;
+    position: relative;
+    background-color: #2f81ed;
+    background-image: linear-gradient(to right, #2F80ED, #56CCF2); /* Light background for the page */
+  }
+  
+  .search-panel {
+    height: 30px;
+    margin-bottom: 32px;
+    background-color: #ffffff; /* White background for the search panel */
+    padding: 24px;
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+.inner-container{
+    width: 1200px;
+    margin: 0 auto;
+    padding: 38px 15px;
+    position: relative;
+    color: #ffffff;
+    font-weight: 600;
+    
+}
+.search-lowest-price{
+    font-size: 20px;
+    text-align: right;
+    margin: 0;
+    margin-bottom: 12px;
+}
+.search-btn{
+    cursor: pointer;
+    background: #ef6614;
+    text-align: center;
+    display: block;
+    color: #fff;
+    font-size: 20px;
+    
+}
+#outlined-basic{
+    justify-items: left;
+    margin-bottom: 12px;
+}
+.exclusive-offers{
+    text-align: center;
+    background-color: #ffffff; /* White background for the offers section */
+    padding: 24px;
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  }
+  
+  
